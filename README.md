@@ -5,7 +5,7 @@ The project contains the main program code and its tests.
 
 ## Running the Algorithm
 
-To test the algorithm, you should run the file named `lab2_main.py` through your own IDE or navigate to the file's directory and enter the following in the console:
+To test the algorithm, you should run the file named `main.py` through your own IDE or navigate to the file's directory and enter the following in the console:
 ```bash
 python -u main.py
 ```
